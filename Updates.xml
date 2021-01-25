@@ -1,0 +1,18 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>smg</Name>
+  <DisplayName>思码光智能娱乐灯带</DisplayName>
+  <Description/>
+  <Version>1.0.1</Version>
+  <ReleaseDate>2020-12-18</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile OS="Any" UncompressedSize="224105339" CompressedSize="75966447"/>
+  <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,platforms.7z,position.7z,printsupport.7z,qmltooling.7z,resources.7z,scenegraph.7z,script.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
+  <UserInterfaces>targetwidget.ui</UserInterfaces>
+  <SHA1>b872643bc3a8cee4ffce4366f7dea9f35210c70f</SHA1>
+ </PackageUpdate>
+</Updates>
